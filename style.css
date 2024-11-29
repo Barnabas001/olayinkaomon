@@ -20,7 +20,7 @@ body {
   justify-content: center;
   background: linear-gradient(to top left, #28b487, #7dd56f);
   background-image: url(native.jpg);
-  background-size: contain;
+  background-size: 750px;
   background-position: center;
   background-repeat: no-repeat;
 }
